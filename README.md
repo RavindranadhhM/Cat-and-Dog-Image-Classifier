@@ -50,12 +50,12 @@ You can run the project in Google Colab or locally with Jupyter Notebook:
 1. Open `cat_dog.ipynb` in [Google Colab](https://colab.research.google.com/) or Jupyter.
 2. Run all cells to train and test the model.
 
-📌 Possible Improvements
+# 📌 Possible Improvements
 * Add data augmentation to improve generalization.
 * Use transfer learning (e.g., VGG16, ResNet) to boost accuracy.
 * Implement early stopping and learning rate scheduling.
 * Optimize batch size and learning rate via hyperparameter tuning.
 
-📜 License
+# 📜 License
 
 This project is part of FreeCodeCamp’s Machine Learning with Python curriculum and is licensed under the MIT License.
