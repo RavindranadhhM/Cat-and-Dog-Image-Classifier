@@ -2,3 +2,5 @@ tensorflow==2.17.0
 numpy==1.26.4
 matplotlib==3.9.0
 Pillow==10.3.0
+# If your project also involves Jupyter Notebook for development and testing, you can add
+jupyter==1.0.0
