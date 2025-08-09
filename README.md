@@ -1,4 +1,4 @@
-# 🐱🐶 Cat-and-Dog Image Classifier
+# 🐱🐶 Cat and Dog Image Classifier
 
 A Convolutional Neural Network (CNN)–based image classification model built as part of the FreeCodeCamp Machine Learning with Python certification project. The model classifies images as either cat or dog with a test accuracy of 74.0%, successfully passing the certification challenge.
 # 📌 Project Overview
