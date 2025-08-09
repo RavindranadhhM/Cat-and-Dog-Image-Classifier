@@ -36,7 +36,7 @@ Evaluation Metric: Accuracy
 Source: https://cdn.freecodecamp.org/project-data/cats-and-dogs/cats_and_dogs.zip
 Provided by FreeCodeCamp for the project.
 
-Classes: cats (label 0), dogs (label 1)
+Classes: `cats` (label 0), `dogs` (label 1)
 
 Preprocessing:
 * Images resized to 150×150 pixels
@@ -45,19 +45,10 @@ Preprocessing:
 
 # 🚀 How to Run
 
-Clone the repository 
+You can run the project in Google Colab or locally with Jupyter Notebook:
 
-    git clone https://github.com/RavindranadhhM/Cat-and-Dog-Image-Classifier.git
-    cd Cat-and-Dog-Image-Classifier
-Install dependencies
-
-    pip install -r requirements.txt
-Train the model
-
-    python train.py
-Test the model
-
-    python test.py
+1. Open `cat_dog.ipynb` in [Google Colab](https://colab.research.google.com/) or Jupyter.
+2. Run all cells to train and test the model.
 
 📌 Possible Improvements
 * Add data augmentation to improve generalization.
